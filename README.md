@@ -27,12 +27,13 @@ This file contains a number of front-end interview questions that can be used wh
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
 * What is a recent technical challenge you experienced and how did you solve it?
-* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+* **What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?**
 * Talk about your preferred development environment.
-* Which version control systems are you familiar with?
+* **Which version control systems are you familiar with?**
 * Can you describe your workflow when you create a web page?
-* If you have 5 different stylesheets, how would you best integrate them into the site?
-* Can you describe the difference between progressive enhancement and graceful degradation?
+* **If you have 5 different stylesheets, how would you best integrate them into the site?** (研究Async loading)
+* **Can you describe the difference between progressive enhancement and graceful degradation?** [Info](http://augus-blog.logdown.com/posts/143403-graceful_degradation_and_progressive_enhancement)
+* -------------- 20160217-------------------
 * How would you optimize a website's assets/resources?
 * How many resources will a browser download from a given domain at a time?
   * What are the exceptions?
