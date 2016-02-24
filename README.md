@@ -45,14 +45,14 @@ This file contains a number of front-end interview questions that can be used wh
 * **Explain what ARIA and screenreaders are, and how to make a website accessible.**
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
 * **What does CORS stand for and what issue does it address?** ([Same Origin Policy](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Same_origin_policy_for_JavaScript), [JSONP](http://stackoverflow.com/questions/2067472/what-is-jsonp-all-about), [CORS](https://developer.mozilla.org/zh-TW/docs/HTTP/Access_control_CORS))
-* --- 20160223 ---
 
 #### HTML Questions:
 
-* What does a `doctype` do?
-* What's the difference between standards mode and quirks mode?
-* What's the difference between HTML and XHTML?
+* What does a `doctype` do? ([What is doctype?](http://stackoverflow.com/questions/414891/what-is-doctype))
+* What's the difference between standards mode and quirks mode? ([Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode))
+* What's the difference between HTML and XHTML? ([Differences Between HTML and XHTML](http://www.sitepoint.com/web-foundations/differences-html-xhtml/))
 * Are there any problems with serving pages as `application/xhtml+xml`?
+* --- 20160224 ---
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
