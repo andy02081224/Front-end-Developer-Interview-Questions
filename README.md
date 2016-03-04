@@ -48,6 +48,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### HTML Questions:
 * [看H5BP的Documentation了解他的做法](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md)
+* [The Open Graph porotocol](http://ogp.me/)
 * What does a `doctype` do? ([What is doctype?](http://stackoverflow.com/questions/414891/what-is-doctype))
 * What's the difference between standards mode and quirks mode? ([Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode))
 * What's the difference between HTML and XHTML? ([Differences Between HTML and XHTML](http://www.sitepoint.com/web-foundations/differences-html-xhtml/))
