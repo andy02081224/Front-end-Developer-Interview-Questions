@@ -69,8 +69,8 @@ This file contains a number of front-end interview questions that can be used wh
 * What is the difference between classes and ID's in CSS?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
-* Describe z-index and how stacking context is formed.
-* Describe BFC(Block Formatting Context) and how it works.
+* **Describe z-index and how stacking context is formed.**
+* **Describe BFC(Block Formatting Context) and how it works.*  [Link](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/)*
 * What are the various clearing techniques and which is appropriate for what context?
 * Explain CSS sprites, and how you would implement them on a page or site.
 * What are your favourite image replacement techniques and which do you use when?
