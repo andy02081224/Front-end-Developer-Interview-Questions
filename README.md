@@ -53,7 +53,6 @@ This file contains a number of front-end interview questions that can be used wh
 * What's the difference between standards mode and quirks mode? ([Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode))
 * What's the difference between HTML and XHTML? ([Differences Between HTML and XHTML](http://www.sitepoint.com/web-foundations/differences-html-xhtml/))
 * Are there any problems with serving pages as `application/xhtml+xml`?
-* --- 20160224 ---
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
@@ -73,30 +72,31 @@ This file contains a number of front-end interview questions that can be used wh
 * **Describe BFC(Block Formatting Context) and how it works.*  [Link](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/)*
 * What are the various clearing techniques and which is appropriate for what context?
 * Explain CSS sprites, and how you would implement them on a page or site.
-* What are your favourite image replacement techniques and which do you use when?
-* How would you approach fixing browser-specific styling issues?
+* What are your favourite image replacement techniques and which do you use when? [Link](https://css-tricks.com/the-image-replacement-museum/)
+* **How would you approach fixing browser-specific styling issues?**
 * How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
-* What are the different ways to visually hide content (and make it available only for screen readers)?
+* **What are the different ways to visually hide content (and make it available only for screen readers)?**[Link](https://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/)
 * Have you ever used a grid system, and if so, what do you prefer?
 * Have you used or implemented media queries or mobile specific layouts/CSS?
-* Are you familiar with styling SVG?
-* How do you optimize your webpages for print?
+* **Are you familiar with styling SVG?**
+* **How do you optimize your webpages for print?**
 * What are some of the "gotchas" for writing efficient CSS?
 * What are the advantages/disadvantages of using CSS preprocessors?
   * Describe what you like and dislike about the CSS preprocessors you have used.
-* How would you implement a web design comp that uses non-standard fonts?
+* **How would you implement a web design comp that uses non-standard fonts?**
 * Explain how a browser determines what elements match a CSS selector.
 * Describe pseudo-elements and discuss what they are used for. 
-* Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+* **Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.**
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 * List as many values for the display property that you can remember.
-* What's the difference between inline and inline-block?
+* What's the difference between inline and inline-block?[Link](http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
 * What's the difference between a relative, fixed, absolute and statically positioned element?
 * The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Have you played around with the new CSS Flexbox or Grid specs?
-* How is responsive design different from adaptive design?
+* 2016-03-21
+* **How is responsive design different from adaptive design?**
 * Have you ever worked with retina graphics? If so, when and what techniques did you use?
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
 
