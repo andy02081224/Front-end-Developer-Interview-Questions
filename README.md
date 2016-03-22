@@ -95,14 +95,18 @@ This file contains a number of front-end interview questions that can be used wh
 * The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Have you played around with the new CSS Flexbox or Grid specs?
-* 2016-03-21
-* **How is responsive design different from adaptive design?**
-* Have you ever worked with retina graphics? If so, when and what techniques did you use?
+* **How is responsive design different from adaptive design? [Link](http://thenextweb.com/dd/2015/09/01/is-adaptive-better-than-responsive-design/)**
+
+> “Responsive design is client-side, meaning the whole page is delivered to the device browser (the client), and the browser then changes how the page appears in relation to the dimensions of the browser window.
+
+> “Adaptive design is server-side, meaning before the page is even delivered, the server (where the site is hosted) detects the attributes of the device, and loads a version of the site that is optimized for its dimensions and native features.”
+
+* Have you ever worked with retina graphics? If so, when and what techniques did you use? (<img srcset> or <picture>)
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
 
 #### JS Questions:
 
-* Explain event delegation
+* **Explain event delegation**
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
