@@ -114,10 +114,15 @@ This file contains a number of front-end interview questions that can be used wh
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
+  * null: `if (aVar === null)`
+  * undefined: `if (aVar === undefined)` or `if (typeof aVar === 'undefined')`
 * What is a closure, and how/why would you use one?
+  * 應用: Data Privacy, Partial applying function, Curry...
 * What's a typical use case for anonymous functions?
-* How do you organize your code? (module pattern, classical inheritance?)
-* What's the difference between host objects and native objects?
+* **How do you organize your code? (module pattern, classical inheritance?)**
+* **What's the difference between host objects and native objects?** [Link](http://stackoverflow.com/questions/7614317/what-is-the-difference-between-native-objects-and-host-objects)
+  * Native: 語言內件的物件，如:Math, Array, Date...
+  * Host: 根據執行環境而被定義的:如:document(DOM), history(BOM), console...
 * Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between `.call` and `.apply`?
 * Explain `Function.prototype.bind`.
