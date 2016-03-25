@@ -126,16 +126,23 @@ This file contains a number of front-end interview questions that can be used wh
 * Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between `.call` and `.apply`?
 * Explain `Function.prototype.bind`.
-* When would you use `document.write()`?
-* What's the difference between feature detection, feature inference, and using the UA string?
-* Explain AJAX in as much detail as possible.
+* When would you use `document.write()`
+
+```html
+<script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.1.min.js"><\/script>')</script>
+```
+
+* What's the difference between feature detection, feature inference, and using the UA string? [Link](http://stackoverflow.com/questions/20104930/whats-the-difference-between-feature-detection-feature-inference-and-using-th)
+* **Explain AJAX in as much detail as possible.**
 * Explain how JSONP works (and how it's not really AJAX).
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used?
 * Explain "hoisting".
 * Describe event bubbling.
-* What's the difference between an "attribute" and a "property"?
+* What's the difference between an "attribute" and a "property"? [Link](http://stackoverflow.com/questions/258469/what-is-the-difference-between-attribute-and-property)
 * Why is extending built-in JavaScript objects not a good idea?
+* --- 20160325 ---
 * Difference between document load event and document ready event?
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
