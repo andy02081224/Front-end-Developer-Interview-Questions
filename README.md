@@ -142,7 +142,6 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe event bubbling.
 * What's the difference between an "attribute" and a "property"? [Link](http://stackoverflow.com/questions/258469/what-is-the-difference-between-attribute-and-property)
 * Why is extending built-in JavaScript objects not a good idea?
-* --- 20160325 ---
 * Difference between document load event and document ready event?
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
@@ -155,20 +154,20 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
 * Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
 * Why would you use something like the `load` event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
-* --- 20160328---
-* Explain what a single page app is and how to make one SEO-friendly.
+* **Explain what a single page app is and how to make one SEO-friendly.**
 * What is the extent of your experience with Promises and/or their polyfills?
-* What are the pros and cons of using Promises instead of callbacks?
+* **What are the pros and cons of using Promises instead of callbacks?**
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
-* What tools and techniques do you use debugging JavaScript code?
+* **What tools and techniques do you use debugging JavaScript code?**
 * What language constructions do you use for iterating over object properties and array items?
-* Explain the difference between mutable and immutable objects.
+* **Explain the difference between mutable and immutable objects.**
   * What is an example of an immutable object in JavaScript?
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
-  * What is the difference between call stack and task queue?
+* **What is event loop?**
+  * **What is the difference between call stack and task queue?**
+* --- 20160406 ---
 
 #### Testing Questions:
 
