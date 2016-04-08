@@ -166,8 +166,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
 * **What is event loop?**
-  * **What is the difference between call stack and task queue?**
-* --- 20160406 ---
+  * **What is the difference between call stack and task queue?** [Link1](https://www.youtube.com/watch?v=8aGhZQkoFbQ), [Link2](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/), [Link3](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
 #### Testing Questions:
 
@@ -177,7 +176,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What is the purpose of a code style linting tool?
 
 #### Performance Questions:
-
+* 20160408
 * What tools would you use to find a performance bug in your code?
 * What are some ways you may improve your website's scrolling performance?
 * Explain the difference between layout, painting and compositing.
