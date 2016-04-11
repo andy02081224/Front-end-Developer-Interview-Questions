@@ -177,12 +177,12 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 
 #### Performance Questions:
 * 20160408
-* What tools would you use to find a performance bug in your code?
-* What are some ways you may improve your website's scrolling performance?
-* Explain the difference between layout, painting and compositing.
+* What tools would you use to find a performance bug in your code? PageSpeed Insights, DevTool Timeline 
+* What are some ways you may improve your website's scrolling performance? throttle, debounce
+* **Explain the difference between layout, painting and compositing.** (**之後回來看**)
 
 #### Network Questions:
-
+* --- 20160411 ---
 * Traditionally, why has it been better to serve site assets from multiple domains?
 * Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
 * What are the differences between Long-Polling, Websockets and Server-Sent Events?
