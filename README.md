@@ -176,14 +176,12 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What is the purpose of a code style linting tool?
 
 #### Performance Questions:
-* 20160408
 * What tools would you use to find a performance bug in your code? PageSpeed Insights, DevTool Timeline 
 * What are some ways you may improve your website's scrolling performance? throttle, debounce
 * **Explain the difference between layout, painting and compositing.** (**之後回來看**)
 
 #### Network Questions:
-* --- 20160411 ---
-* Traditionally, why has it been better to serve site assets from multiple domains?
+* **Traditionally, why has it been better to serve site assets from multiple domains?** [Sharding Dominant Domains](http://www.stevesouders.com/blog/2009/05/12/sharding-dominant-domains/), [Domain Sharding revisited](http://www.stevesouders.com/blog/2013/09/05/domain-sharding-revisited/), [SO_160376](http://stackoverflow.com/questions/160376/why-move-your-javascript-files-to-a-different-main-domain-that-you-also-own):通常browser對在同一個hostname可以同時下載的靜態資源數量會有所限制(ex. Chrome=6)，因此將靜態資源分散在不同的domain(ex. a.example.com. b.example.com)可以增加browser平行下載的靜態資源數量，增進效能
 * Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
 * What are the differences between Long-Polling, Websockets and Server-Sent Events?
 * Explain the following request and response headers:
