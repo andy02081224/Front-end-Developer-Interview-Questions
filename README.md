@@ -202,7 +202,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   8. TRACE
 
 #### Coding Questions:
---- 20160420 ---
+
 *Question: What is the value of `foo`?*
 ```javascript
 var foo = 10 + '20';
@@ -223,7 +223,7 @@ add(2)(5); // 7
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
-
+--- 20160420 ---
 *Question: What is the outcome of the two alerts below?*
 ```javascript
 var foo = "Hello";
