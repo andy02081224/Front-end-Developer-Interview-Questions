@@ -53,7 +53,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What's the difference between standards mode and quirks mode? ([Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode))
 * What's the difference between HTML and XHTML? ([Differences Between HTML and XHTML](http://www.sitepoint.com/web-foundations/differences-html-xhtml/))
 * Are there any problems with serving pages as `application/xhtml+xml`?
-* How do you serve a page with content in multiple languages?
+* How do you serve a page with content in multiple languages? [Link](https://www.quora.com/What-kind-of-things-one-should-be-wary-of-when-designing-or-developing-for-multilingual-sites/answer/Ted-Goas?srid=pmde)
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
