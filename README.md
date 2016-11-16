@@ -58,7 +58,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What are `data-` attributes good for?
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
-* Describe the difference between `<script>`, `<script async>` and `<script defer>`. [Link](https://www.evernote.com/shard/s107/nl/11802281/513a18a9-2262-43bb-82ab-ea9c7a850bbe)
+* Describe the difference between `<script>`, `<script async>` and `<script defer>`. [Link](http://peter.sh/experiments/asynchronous-and-deferred-javascript-execution-explained/)
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions? Exception: [Modernizr](http://stackoverflow.com/questions/6272702/should-modernizr-file-be-placed-in-head)
 * What is progressive rendering? [Link](http://stackoverflow.com/questions/33651166/what-is-progressive-rendering)
 * Have you used different HTML templating languages before? [Handlebar](http://handlebarsjs.com/), [Liquid](http://liquidmarkup.org/)
