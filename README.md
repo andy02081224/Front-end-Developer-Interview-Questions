@@ -68,6 +68,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What is the difference between classes and ID's in CSS?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
+  - The float CSS property specifies that an element should be taken from the normal flow and placed along the left or right side of its container, where text and inline elements will wrap around it. (MDN)
 * **Describe z-index and how stacking context is formed.**
 * **Describe BFC(Block Formatting Context) and how it works.*  [Link](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/)*
 * What are the various clearing techniques and which is appropriate for what context?
