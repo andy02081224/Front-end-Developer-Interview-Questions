@@ -73,6 +73,7 @@ This file contains a number of front-end interview questions that can be used wh
   - Stacking Context: Browser當中假想的HTML排列的3D空間，沿著使用者面對螢幕的視線到viewport的垂直Z軸做堆疊
   - z-index只對positioned element (relative, absolute, fixed)有效果
   - Positioning(relative, absolute, fixed) and assigning a z-index value to an HTML element creates a stacking context, (as does assigning non-full opacity).
+  - [Stacking Changes Coming to position:fixed elements](https://developers.google.com/web/updates/2012/09/Stacking-Changes-Coming-to-position-fixed-elements)
 * **Describe BFC(Block Formatting Context) and how it works.*  [Link](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/)*
 * What are the various clearing techniques and which is appropriate for what context?
 * Explain CSS sprites, and how you would implement them on a page or site.
